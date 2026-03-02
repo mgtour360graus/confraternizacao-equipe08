@@ -1,0 +1,52 @@
+#: locale=pt
+
+## Action
+
+### URL
+WebFrame_B95961F2_AF8F_3819_41DD_A49A1DAA038F_mobile.url = //www.youtube.com/embed/BJJPD9sbDcE
+WebFrame_B95961F2_AF8F_3819_41DD_A49A1DAA038F.url = //www.youtube.com/embed/BJJPD9sbDcE
+WebFrame_BA6A614F_AF8F_5807_41D6_444426F2CE40_mobile.url = //www.youtube.com/embed/IIl7O-TdrV0
+WebFrame_BA6A614F_AF8F_5807_41D6_444426F2CE40.url = //www.youtube.com/embed/IIl7O-TdrV0
+WebFrame_B8E72E4E_AF8F_4809_41E1_D0E878BAFBC6.url = //www.youtube.com/embed/nAa7R2P1XbY
+WebFrame_B8E72E4E_AF8F_4809_41E1_D0E878BAFBC6_mobile.url = //www.youtube.com/embed/nAa7R2P1XbY
+
+## Media
+
+### Audio
+audiores_A0074C22_AF8B_4839_41A5_A2DAB7638867.mp3Url = media/audio_B99557EA_AAAF_BB31_41B7_656592EC966C_pt.mp3
+
+### Audio Subtitles
+
+### Subtitle
+panorama_A6E386A9_AA67_7D33_41D0_9BD29A3C7D4D.subtitle = Equipe n°8
+
+### Title
+panorama_A3A27C26_AF88_C806_41E5_47C5B7C0E531.label = Confraternização Equipe 8
+panorama_A6E386A9_AA67_7D33_41D0_9BD29A3C7D4D.label = Confraternização equipe 8
+panorama_A4DB7099_AF89_380B_41DC_13A186546CF6.label = Por do sol
+
+## Skin
+
+### Button
+Button_B9ABF95F_AF8B_4807_41CC_8E2120D63A23_mobile.label = FOGUEIRA 
+Button_B9ABF95F_AF8B_4807_41CC_8E2120D63A23.label = FOGUEIRA 
+Button_BA29D35F_AF87_D806_41E3_C569F595FD65_mobile.label = ORAÇÃO 
+Button_BA29D35F_AF87_D806_41E3_C569F595FD65.label = ORAÇÃO 
+Button_B9A6271F_AF8B_5807_41DB_3F2634593E21.label = PISCINA
+Button_B9A6271F_AF8B_5807_41DB_3F2634593E21_mobile.label = PISCINA
+
+### Image
+Image_BAD14D8F_AF9F_4807_41C1_5374E45404FF_mobile.url = skin/Image_BAD14D8F_AF9F_4807_41C1_5374E45404FF_mobile_pt.png
+Image_BAD14D8F_AF9F_4807_41C1_5374E45404FF.url = skin/Image_BAD14D8F_AF9F_4807_41C1_5374E45404FF_pt.png
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Equipe de Nossa Senhora 
+
+### Title
+tour.name = Confraternização - Equipe n°8
